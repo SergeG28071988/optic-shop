@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/optic-shop/static/css/main.cc16f14c.css",
+    "main.js": "/optic-shop/static/js/main.284c82c1.js",
+    "static/media/bubbles.png": "/optic-shop/static/media/bubbles.cd1d55efbedfee1f2897.png",
+    "static/media/contact_woman.png": "/optic-shop/static/media/contact_woman.aa338221bb9a17b08d28.png",
+    "static/media/logo.png": "/optic-shop/static/media/logo.6285f6c6ed2703ccb1ee.png",
+    "static/media/logo_1.png": "/optic-shop/static/media/logo_1.ca8942398b5b3abe96cf.png",
+    "static/media/eye-doctor.png": "/optic-shop/static/media/eye-doctor.1d7299f3af9e1652d803.png",
+    "static/media/background.jpg": "/optic-shop/static/media/background.be06236cebf51142478b.jpg",
+    "index.html": "/optic-shop/index.html",
+    "main.cc16f14c.css.map": "/optic-shop/static/css/main.cc16f14c.css.map",
+    "main.284c82c1.js.map": "/optic-shop/static/js/main.284c82c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc16f14c.css",
+    "static/js/main.284c82c1.js"
+  ]
+}
